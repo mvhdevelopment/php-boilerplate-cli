@@ -1,6 +1,6 @@
 {
   "name": "php-boilerplate",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the php boilerplate installed",
   "main": "init.js",
   "repository": {
