@@ -1,0 +1,28 @@
+{
+  "name": "php-boilerplate",
+  "version": "1.0.2",
+  "description": "Get the php boilerplate installed",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhdevelopment/php-boilerplate.git"
+  },
+  "keywords": [
+    "php-boilerplate",
+    "MatseVH",
+    "MVHDevelopment"
+  ],
+  "author": "MatseVH (matse@vanhorebeek.be)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhdevelopment/php-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mvhdevelopment/php-boilerplate#readme",
+  "bin": {
+    "php-boilerplate": "init.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "shelljs": "^0.8.5"
+  }
+}
