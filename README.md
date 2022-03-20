@@ -34,8 +34,8 @@ php-boilerplate help
 
 🤓 **Matse Van Horebeek <matse@vanhorebeek.be>**
 
-- Twitter: [@mikaelr16](https://twitter.com/matsevh)
-- Github: [@Mikael-R](https://github.com/matse2005)
+- Twitter: [@MatseVH](https://twitter.com/matsevh)
+- Github: [@Matse2005](https://github.com/matse2005)
 - Website: [matsevh.eu](https://matsevh.eu)
 
 ---
